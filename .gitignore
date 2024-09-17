@@ -1,3 +1,4 @@
 source_material/
 __pycache__/
 Podcast.wav
+**.pickle.**
